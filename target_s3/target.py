@@ -30,6 +30,7 @@ class Targets3(Target):
                         "parquet",
                         "json",
                         "jsonl",
+                        "csv",
                     ],  # TODO: configure this from class
                 ),
                 th.Property(
